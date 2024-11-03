@@ -1,0 +1,1 @@
+This project involves creating a detailed HR dashboard in Power BI to track workforce metrics, such as employee performance, engagement, and turnover. Key insights identified the top factors impacting performance by analyzing satisfaction, absenteeism, and project involvement for 300+ employees
